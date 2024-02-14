@@ -1,1 +1,3 @@
 This project is a basic recipe website. It will include multiple pages containing individual recipes.
+
+At completion of this project, I have demonstrated the use of simple html coding, such as using absolute and relative links and images, using headings, using paragraphs, and organizing information into lists. I have also practiced using Git to backup versions of my project over time, which is the newest of the skills I have gained at this point in my program.
