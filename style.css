@@ -1,0 +1,34 @@
+*     {font-family: Arial, Helvetica, sans-serif;
+      }
+
+div   {text-align: center;
+       list-style-position: inside;
+      }
+
+h1    {font-weight: 800;
+       font-size: 28px;
+       color: midnightblue;
+      }
+
+h3    {font-weight: 700;
+       font-size: 22px;
+       color: black;
+      }      
+
+#ulcorners {border-radius: 25px;
+            background-color: gray;
+            padding: 20px;
+            width: 400px;  
+            height: auto;
+            margin-left: auto;
+            margin-right: auto;
+           }   
+
+#olcorners {border-radius: 25px;
+            background-color: cadetblue;   
+            padding: 20px;
+            width: 600px;
+            height: auto;
+            margin-left: auto;
+            margin-right: auto;
+           }
